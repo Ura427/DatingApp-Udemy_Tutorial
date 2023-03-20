@@ -5,17 +5,11 @@ D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\API.deps.json
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\API.runtimeconfig.json
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\API.dll
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\API.pdb
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
@@ -25,7 +19,6 @@ D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\staticwebassets
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\staticwebassets.build.json
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\staticwebassets.development.json
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.dll
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\refint\API.dll
 D:\UDemy\ASPNET Core from Scratch\DatingApp\API\obj\Debug\net7.0\API.pdb
