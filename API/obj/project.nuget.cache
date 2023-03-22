@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lx3wjH6/S3QDGcOMTgKPTwjLT/822Y+G+n/dX6tL16tCtLIQw/bznl5t6xiW/QxDhFT7mwfAVMeNUnClHs2I4Q==",
+  "dgSpecHash": "OXdjxKSTYeQdrOw7/1iyMcpQXqCU23ipsS/Fk9qExiQQDpI7k+0j73wBLq3CuerDWURp0G3pbMYWwSnxqZChTw==",
   "success": true,
-  "projectFilePath": "D:\\UDemy\\ASPNET Core from Scratch\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "D:\\UDemy\\ASPNET Core from Scratch\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
